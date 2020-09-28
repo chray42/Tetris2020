@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import {Wrapped, StyledA, StyledH1} from './style';
+import {Wrapped, StyledA, StyledH1, StyledImg} from '../components/global/style';
 import Link from 'next/link';
 import socketIOClient from "socket.io-client";
 
