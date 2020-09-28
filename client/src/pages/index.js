@@ -12,7 +12,7 @@ const App = () => {
     <Wrapped>
       <StyledH1>TETRIS 2020</StyledH1>
       <Link passHref href="/menu" >
-        <StyledA>menu</StyledA>
+        <StyledA>menu</StyledA> 
       </Link>
     </Wrapped>
   )
